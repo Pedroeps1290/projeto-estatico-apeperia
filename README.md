@@ -1,2 +1,2 @@
-# projeto-estatico-apeperia
-projeto html e css da ALURA
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
